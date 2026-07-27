@@ -1,11 +1,11 @@
 {
-  "run_id": "2026-07-27T07:39:07Z",
+  "run_id": "2026-07-26T07:46:48Z",
   "cves_processed": 0,
   "cves_skipped": 1653,
   "skip_reason": "no KEV date change since last research",
-  "total_wall_time_seconds": 33.4,
+  "total_wall_time_seconds": 184.5,
   "total_tokens_used": null,
-  "avg_time_per_cve_seconds": 33.4,
+  "avg_time_per_cve_seconds": 184.5,
   "avg_tokens_per_cve": null,
   "errors": [],
   "qc_report": {
